@@ -4,4 +4,4 @@
 
 ## Passo a passo
 
-- yarn dev
+- `yarn init -y`
